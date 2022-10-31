@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PracticaShared</string>
+    <string name="sp_text">Spinner</string>
+    <string name="et_cal">Calificación</string>
+    <string name="et_nombre">Nombre</string>
+    <string name="sp_calif">Calificación escribir</string>
+</resources>
